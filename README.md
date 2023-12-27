@@ -1,1 +1,1 @@
-# happinessChain日報提出用のリポジトリです
+# HappinessChain日報提出用のリポジトリです
